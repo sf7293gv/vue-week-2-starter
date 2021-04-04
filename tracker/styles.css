@@ -2,3 +2,15 @@
     max-height: 250px;
     overflow: scroll;
 }
+
+.sktch {
+    background-color: aqua;
+}
+
+.drw {
+    background-color: aquamarine;
+}
+
+.paintn {
+    background-color: darkcyan;
+}
